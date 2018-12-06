@@ -1,3 +1,6 @@
+#Module to detect object in image and return suggestions for what is there in the image
+#Returns answers to the translate function
+
 import io
 import os
 from translate import translate_word
