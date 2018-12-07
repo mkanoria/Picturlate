@@ -1,4 +1,5 @@
 #Function to use input word and translate into chosen language
+#Uses language_codes.py to get the language code
 
 #install gcp translate
 #get API key and set to path
