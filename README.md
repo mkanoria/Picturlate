@@ -1,7 +1,7 @@
 Picturlate
 =====
 
-A cross platform app to help people learn reading and writing in a foreign language.
+A cross platform app to help people learn to read and write in a foreign language.
 Written in **Javascript**, **CSS** using the *React Native*  framework for front end and *Flask* and **Python** for back end.<br><br>
 Users can open up the app, choose a language they're interested in learning, and then click a picture of any object in their surrounding. The app detects what object it is and translates it into the language chosen and also returns a list of other synonyms for the same object.
 <br><br>
