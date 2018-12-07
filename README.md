@@ -15,4 +15,4 @@ Supported Languages are
 * Hindi
 * Spanish
 
-
+As a next step, the users will be able to listen to the translated word in the chosen language by clicking on the word. This is done using the *text-to-speech API*
